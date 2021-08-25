@@ -1,0 +1,33 @@
+git config --global user.name “Edith Hernandez"
+
+•git config --global user.email “edith.hernandez@tsoftglobal.com”
+
+•git config --global color.ui true
+
+comandos:
+
+git help
+git log
+git init
+git config -l
+git help everyday
+file:///C:/Users/Edith.Hernandez/AppData/Local/Programs/Git/mingw64/share/doc/git-doc/giteveryday.html
+
+git commit --amend -m "sdfksdkjf" --> actualiza los comentarios
+
+git status
+git log
+
+git add y el archivo a subir
+
+git commit -m "comentarios"
+
+escape : q
+
+Apuntar subir todo un proyecto --> pendiente
+
+Con git push -u origin main -- puedo subir mis cambios desde mi local.
+
+git remote add origin https://github.com/Ediithh/TBKCAPACITACIONGIT.git
+git branch -M main
+git push -u origin main
